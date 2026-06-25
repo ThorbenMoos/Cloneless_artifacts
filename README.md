@@ -8,4 +8,4 @@ This repository contains PCB designs, FPGA controllers, verification collateral 
 <img src="Cloneless1_PCB_front.jpg" height="270"/> <img src="Cloneless1_PCB_back.jpg" height="270"/> <img src="Cloneless1_COB.jpg" height="270"/>
 
 ## Measurements
-<img src="Powertrace.png" height="400"/>
+<img src="Powertrace.svg" height="400"/>
